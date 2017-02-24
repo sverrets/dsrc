@@ -16,6 +16,10 @@
 # along with GNU Radio; see the file COPYING.  If not, write to
 # the Free Software Foundation, Inc., 51 Franklin Street,
 # Boston, MA 02110-1301, USA.
+#
+# DSRC-module made by: Einar Thorsrud, Jonathan Hansen
+#
+
 
 ########################################################################
 # Setup library

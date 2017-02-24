@@ -16,6 +16,9 @@
 # along with GNU Radio; see the file COPYING.  If not, write to
 # the Free Software Foundation, Inc., 51 Franklin Street,
 # Boston, MA 02110-1301, USA.
+#
+# Made by: Einar Thorsrud, Jonathan Hansen
+#
 
 if(DEFINED __INCLUDED_GR_MISC_UTILS_CMAKE)
     return()

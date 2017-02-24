@@ -15,6 +15,10 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 #
+# DSRC-module made by: Einar Thorsrud, Jonathan Hansen
+#
+
+#
 
 # The presence of this file turns this directory into a Python package
 

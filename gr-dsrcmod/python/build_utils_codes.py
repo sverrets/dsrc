@@ -18,6 +18,10 @@
 # the Free Software Foundation, Inc., 51 Franklin Street,
 # Boston, MA 02110-1301, USA.
 #
+# DSRC-module made by: Einar Thorsrud, Jonathan Hansen
+#
+
+#
 
 def i_code (code3):
     return code3[0]
